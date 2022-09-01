@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Aug 30 17:25:48 IST 2022","Tue Aug 30 17:26:11 IST 2022","23266","All Test Suite","D:/TESTING/Sample/SampleProject","Test.Search","Test.Search","LoginIsWorking","LoginIsWorking",""
+"passed","Tue Aug 30 17:26:15 IST 2022","Tue Aug 30 17:26:41 IST 2022","26340","All Test Suite","D:/TESTING/Sample/SampleProject","Test.Search","Test.Search","LoggedInOrNot","LoggedInOrNot",""
