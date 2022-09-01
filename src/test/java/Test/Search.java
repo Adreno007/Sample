@@ -30,7 +30,7 @@ public class Search extends BaseTest {
 
     @Test
     public void LoggedInOrNot(){
-        if(!searchPage.CheckUIs())
+        if(searchPage.CheckUIs())
             Assert.fail();
     }
 }
