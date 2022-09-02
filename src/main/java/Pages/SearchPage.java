@@ -8,8 +8,8 @@ import org.openqa.selenium.WebElement;
 public class SearchPage {
     public WebDriver driver;
 
-    private String UserName = "abhishu99@gmail.com";
-    private String Password = "Frugal@123";
+    private String UserName = "adreno1@mailinator.com";
+    private String Password = "Ann@1999";
 
 
 
@@ -32,7 +32,7 @@ public class SearchPage {
 
     public boolean CheckUIs(){
         Login();
-        return driver.getPageSource().contains("Your Dashboard");
+        return driver.getPageSource().contains("Ankit");
     }
 }
 
