@@ -1,0 +1,1 @@
+{"uuid":"500b5d9d-5ba2-4e13-8893-dc9140b37be6","name":"Test.Search.ClearTest","children":["70ecb946-e083-4e9d-a03a-eedbcf06fed6"],"description":"","befores":[],"afters":[{"name":"ClearTest","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1662359455544,"stop":1662359456179}],"start":1662359455543,"stop":1662359456180}
