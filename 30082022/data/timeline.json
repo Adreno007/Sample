@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-JSQ77L0",
+    "children" : [ {
+      "name" : "15732@DESKTOP-JSQ77L0.main(1)",
+      "children" : [ {
+        "name" : "LoggedInOrNot",
+        "uid" : "6e6a167b30ac94ee",
+        "parentUid" : "c56b2a4cbac2063c3069d5b742616dae",
+        "status" : "passed",
+        "time" : {
+          "start" : 1662381744092,
+          "stop" : 1662381761812,
+          "duration" : 17720
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "LoginIsWorking",
+        "uid" : "497124ab36bc7611",
+        "parentUid" : "c56b2a4cbac2063c3069d5b742616dae",
+        "status" : "passed",
+        "time" : {
+          "start" : 1662381718997,
+          "stop" : 1662381740799,
+          "duration" : 21802
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c56b2a4cbac2063c3069d5b742616dae"
+    } ],
+    "uid" : "ed45bc3ccf4746c54aeeb04e8531944e"
+  } ]
+}

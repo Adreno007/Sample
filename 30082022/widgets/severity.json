@@ -1,0 +1,21 @@
+[ {
+  "uid" : "6e6a167b30ac94ee",
+  "name" : "LoggedInOrNot",
+  "time" : {
+    "start" : 1662381744092,
+    "stop" : 1662381761812,
+    "duration" : 17720
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "497124ab36bc7611",
+  "name" : "LoginIsWorking",
+  "time" : {
+    "start" : 1662381718997,
+    "stop" : 1662381740799,
+    "duration" : 21802
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
