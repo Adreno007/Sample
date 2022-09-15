@@ -36,7 +36,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.D:/TESTING/Practice/Sample Project/testng.xml">
+  <component name="RunManager" selected="TestNG.Search.LoginIsWorking (1)">
     <configuration name="C:/Users/acer/IdeaProjects/Mvan/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SampleProject" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
@@ -84,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Search.LoginIsWorking" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SampleProject" />
+    <configuration name="Search.LoginIsWorking (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Mvan" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Test.*" />
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Search.LoginIsWorking (1)" />
         <item itemvalue="TestNG.D:/TESTING/Practice/Sample Project/testng.xml" />
         <item itemvalue="TestNG.D:/TESTING/Practice/Sample/testng.xml" />
         <item itemvalue="TestNG.C:/Users/acer/IdeaProjects/Mvan/testng.xml" />
         <item itemvalue="TestNG.Search" />
-        <item itemvalue="TestNG.Search.LoginIsWorking" />
       </list>
     </recent_temporary>
   </component>
