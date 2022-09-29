@@ -35,9 +35,15 @@ public class SearchPage {
     }
 
     @Step("2nd")
-    public boolean CheckUIs(){
+    public boolean profileUpload(){
         Login();
-        return driver.getPageSource().contains("Abhishu");
+        driver.navigate().to("https://webapp.sacredgroves.earth/user/profile?Personal");
+        WebElement Profile = driver.findElement(By.id("editProfilePicture"));
+        Profile.sendKeys("C:\\Users\\acer\\Pictures\\Screenshots\\Screenshot (20).png");
+        driver.findElement(By.id("saveBtn")).click();
+        WebElement okPopUpElement = driver.findElement(By.xpath("//a[text()='OK']"));
+        okPopUpElement.click();
+        return true;
     }
 }
 
