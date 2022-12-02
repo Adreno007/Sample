@@ -1,6 +1,6 @@
 package Pages;
 
-import io.qameta.allure.Step;
+//import io.qameta.allure.Step;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
@@ -28,13 +28,13 @@ public class SearchPage {
         driver.findElement(By.id("loginBtn")).click();
     }
 
-    @Step("1st")
+//    @Step("1st")
     public boolean LoginVerify() {
         Login();
         return driver.getCurrentUrl().contains("user");
     }
 
-    @Step("2nd")
+//    @Step("2nd")
     public boolean profileUpload(){
         Login();
         driver.navigate().to("https://webapp.sacredgroves.earth/user/profile?Personal");
