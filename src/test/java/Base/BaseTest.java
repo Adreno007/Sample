@@ -16,6 +16,6 @@ public class BaseTest {
         WebDriverManager.chromedriver().setup();
         driver = new ChromeDriver();
         driver.manage().window().maximize();
-        driver.get("https://webapp.sacredgroves.earth/login");
+        driver.get("https://google.com");
     }
 }

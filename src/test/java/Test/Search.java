@@ -33,6 +33,11 @@ public class Search extends BaseTest {
         if(!searchPage.profileUpload())
             Assert.fail();
     }
+
+    @Test
+    public void Verifier(){
+        driver.getCurrentUrl().contains("google");
+    }
 }
 
 
