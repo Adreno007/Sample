@@ -8,8 +8,9 @@
         <classes>
             <class name="Test.Search">
                 <methods>
-                    <include name="LoginIsWorking"/>
-                    <include name="LoggedInOrNot"/>
+<!--                    <include name="LoginIsWorking"/>-->
+<!--                    <include name="LoggedInOrNot"/>-->
+                    <include name="Verifier"/>
                 </methods>
             </class>
         </classes>
